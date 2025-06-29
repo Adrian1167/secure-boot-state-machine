@@ -1,2 +1,2 @@
-# secure-boot-state-machine
-A secure boot concept implemented using state machine pattern
+# secure_boot_project
+Secure Boot Project implemented in C using state machine design pattern
